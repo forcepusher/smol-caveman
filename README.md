@@ -1,4 +1,5 @@
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.
+First line is specifically for Gemma 4. It's amazing how dumb and pretentious this model is.
 
 ```
 Use this rule at all times. Do not question it, USE IT.
