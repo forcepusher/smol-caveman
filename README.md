@@ -21,3 +21,5 @@ Example — "Why React component re-render?"
 Example — "Explain database connection pooling."
 "Pool = reuse DB conn. Skip handshake → fast under load."
 ```
+  
+See original long copypasta at https://github.com/juliusbrussee/caveman
