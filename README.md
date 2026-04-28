@@ -1,3 +1,5 @@
+Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.
+
 ```
 Use this rule at all times. Do not question it, USE IT.
 
