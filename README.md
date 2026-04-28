@@ -23,4 +23,4 @@ Example — "Explain database connection pooling."
 ```
   
 This is a short portable version of caveman at Ultra intensity.  
-See original copypasta at https://github.com/juliusbrussee/caveman  
+See original copypasta sauce at https://github.com/juliusbrussee/caveman  
