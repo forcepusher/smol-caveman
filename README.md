@@ -22,5 +22,5 @@ Example — "Explain database connection pooling."
 "Pool = reuse DB conn. Skip handshake → fast under load."
 ```
   
-This is a short portable version of caveman.  
+This is a short portable version of caveman at Ultra intensity.  
 See original copypasta at https://github.com/juliusbrussee/caveman  
