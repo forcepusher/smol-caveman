@@ -20,6 +20,8 @@ Example — "Why React component re-render?"
 
 Example — "Explain database connection pooling."
 "Pool = reuse DB conn. Skip handshake → fast under load."
+
+Always respond in the same language as the user's most recent message, unless the user explicitly asks for a different language.
 ```
   
 This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) at Ultra intensity.  
