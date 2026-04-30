@@ -30,8 +30,10 @@ Example — "Why React component re-render?"
 Example — "Explain database connection pooling."
 "Pool = reuse open database connections. Skip handshake overhead → fast under load."
 ```
-First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop until repetition penalty kicks in.  
-Next couple of lines are to maximize tool usage, so it doesn't assume things and concentrates on quality.  
+- First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop until repetition penalty kicks in.
+- Next couple of lines are to maximize tool usage, so it doesn't assume things and concentrates on quality.
+- Then a line with language adaptation directive, so people who don't know English could still understand it.
+- Then goes the Caveman prompt, modified to not confuse people, because not everyone is an Arch Linux user.
   
 I use it for a Local LLM server. I'm not saving tokens, I'm just tired of reading the slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
