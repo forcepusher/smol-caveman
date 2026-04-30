@@ -25,4 +25,5 @@ Example — "Why React component re-render?"
 Example — "Explain database connection pooling."
 "Pool = reuse open database connections. Skip handshake overhead → fast under load."
 ```
+I use it for Local LLM servers. We're not saving tokens, we're just tired of reading the slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
