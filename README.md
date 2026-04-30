@@ -1,4 +1,5 @@
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.  
+  
 First line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
   
 ```
