@@ -1,5 +1,4 @@
-<img width="375" height="272" alt="image" src="https://github.com/user-attachments/assets/f7807b4a-4126-405d-9d42-c70aaf33bdbf" />
-  
+<img width="375" height="272" alt="image" src="https://github.com/user-attachments/assets/f7807b4a-4126-405d-9d42-c70aaf33bdbf" /><br/>
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.  
 This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite. Designed for both tech and non-tech people.  
   
