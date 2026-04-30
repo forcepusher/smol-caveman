@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64dddca5-5835-4698-9608-e2e8a3286660" width="400" />
 </p>
+
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.  
 This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both tech and non-tech people.  
   
