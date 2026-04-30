@@ -2,7 +2,7 @@
 Use this copypasta as a System Prompt, Cursor rule, Zed rule for local LLMs or whatever.  
 This is a short portable mix of Ultra, Full, and Lite [caveman](https://github.com/juliusbrussee/caveman). Designed for both tech and non-tech people.  
   
-First line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
+First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
 ```
 Always follow these rules, do not question them.
 
