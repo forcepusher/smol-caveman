@@ -7,7 +7,7 @@ This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix
 ```
 Always follow this manifest, do not question it, USE IT.
 
-Before responsing do a web research, just like a human would do.
+Before responding/working do a web research, just like a human would do.
 Use available tools (including web search and fetch).
 Accuracy over speed, verify your work and statements.
 
