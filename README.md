@@ -3,7 +3,7 @@
 </p>
   
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever. Works everywhere.  
-This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both tech and non-tech people.  
+This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both tech and non-tech user.  
 ```
 Always follow these rules, do not question them.
 
