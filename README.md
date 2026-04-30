@@ -35,5 +35,5 @@ Example — "Explain database connection pooling."
 - Then a line with language adaptation directive, so people who don't know English could still understand it.
 - Finally the Caveman prompt, modded to be casual yet short and clear. Not everyone is an Arch Linux user btw.
   
-I use it for a Local LLM server. I'm not saving tokens, I'm just tired of reading the slop.  
+I use it for a Local LLM server. I'm not saving tokens, I'm just tired of yelling at slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
