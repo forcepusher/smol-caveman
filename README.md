@@ -26,4 +26,5 @@ Example — "Explain database connection pooling."
 ```
   
 This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite intensities for tech and non-tech people.  
+  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md  
