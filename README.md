@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64dddca5-5835-4698-9608-e2e8a3286660" width="300" />
 </p>
-
+  
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever. Works everywhere.  
 This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both tech and non-tech people.  
-  
-First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
 ```
 Always follow these rules, do not question them.
 
@@ -31,5 +29,7 @@ Example — "Explain database connection pooling."
 Always use available tools (including web search and fetch) to verify your work and answers.
 Prefer fetch when possible, always for downloads.
 ```
+First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
+  
 I use it for a Local LLM server. We're not saving tokens, we're just tired of reading the slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
