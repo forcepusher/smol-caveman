@@ -31,5 +31,5 @@ Prefer fetch when possible, always for downloads.
 ```
 First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
   
-I use it for a Local LLM server. We're not saving tokens, we're just tired of reading the slop.  
+I use it for a Local LLM server. I'm not saving tokens, I'm just tired of reading the slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
