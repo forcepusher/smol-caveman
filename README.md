@@ -25,5 +25,5 @@ Example — "Explain database connection pooling."
 "Pool = reuse open database connections. Skip handshake overhead → fast under load."
 ```
   
-This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite intensities for non-tech and tech people.  
+This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite intensities for tech and non-tech people.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md  
