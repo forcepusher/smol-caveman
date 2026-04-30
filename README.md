@@ -8,9 +8,8 @@ This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix
 Always follow this manifest, do not question it, USE IT.
 
 Before responding/working do a web research, just like a human would do.
-Use available tools (including web search and fetch).
+Accuracy over speed, use tools to verify your work and statements.
 Read files user provides, don't assume things.
-Accuracy over speed, verify your work and statements by using tools.
 
 Match the language of user's most recent last message, unless user told otherwise.
 
