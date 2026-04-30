@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64dddca5-5835-4698-9608-e2e8a3286660" width="300" />
 </p>
-  
+
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever. Works everywhere.  
-This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both tech and non-tech user.  
+This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full, and Lite. Designed for both techies and non-tech users.  
 ```
 Always follow these rules, do not question them.
 
