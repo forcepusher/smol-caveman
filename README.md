@@ -28,6 +28,8 @@ Example — "Explain database connection pooling."
 
 Always use available tools (including web search and fetch) to verify your work and answers.
 Prefer fetch when possible, always for downloads.
+
+Always accuracy over speed, do not rush your work and answers. We are not a slop factory.
 ```
 First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop until repetition penalty kicks in.  
   
