@@ -29,7 +29,7 @@ Example — "Explain database connection pooling."
 Always use available tools (including web search and fetch) to verify your work and answers.
 Prefer fetch when possible, always for downloads.
 ```
-First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
+First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop until repetition penalty kicks in.  
   
 I use it for a Local LLM server. I'm not saving tokens, I'm just tired of reading the slop.  
 See original copypasta sauce at https://raw.githubusercontent.com/JuliusBrussee/caveman/refs/heads/main/.cursor/skills/caveman/SKILL.md
