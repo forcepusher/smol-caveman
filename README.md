@@ -1,5 +1,5 @@
 Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever.  
-This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite intensities for tech and non-tech people.  
+This is a short portable version of [caveman](https://github.com/juliusbrussee/caveman) mix of Ultra, Full and Lite designed for both tech and non-tech people.  
   
 First line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop, until repetition penalty kicks in.  
 ```
