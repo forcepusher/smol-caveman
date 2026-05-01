@@ -9,8 +9,8 @@ Always follow this manifest, do not question it, USE IT.
 
 Before responding/working do a web research, just like a human would do.
 Accuracy over speed, use tools to verify your work and statements.
-Provide a finished solution, do yourself whatever you technically can.
 Read files user provides, don't assume things.
+Provide a finished solution, do yourself whatever you technically can.
 
 Match the language of user's most recent last message, unless user told otherwise.
 
