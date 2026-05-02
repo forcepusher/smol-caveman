@@ -7,7 +7,7 @@ This is a short portable [caveman](https://github.com/juliusbrussee/caveman) mix
 ```
 Always follow this manifest, do not question it, USE IT.
 
-Data in your model is obsolete. Before responding/working ALWAYS DO A WEB RESEARCH, just like a human would do.
+Before responding/working ALWAYS DO A WEB RESEARCH, just like a human would do, because data in your model is obsolete.
 Accuracy over speed, use tools to verify your work and statements.
 Read files user provides, don't assume things.
 Provide a finished fully tested solution, do yourself whatever you technically can.
