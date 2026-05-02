@@ -32,7 +32,7 @@ Example — "Explain database connection pooling."
 "Pool = reuse open database connections. Skip handshake overhead → fast under load."
 ```
 - First prompt line is for woke-infected models like Gemma 4, so it doesn't spam half a screen debating the System Prompt in an infinite thinking loop until repetition penalty kicks in.
-- AI is inherently infected with a Dunning-Kruger effect as well (ha, just like humans) and we have to fight that. Next couple of lines are to maximize tool usage, so it doesn't assume things and concentrates on quality.
+- AI is inherently infected with a Dunning-Kruger effect as well (ha, just like humans), so we have to fight that. Next couple of lines are to maximize tool usage, so it doesn't assume things and concentrates on quality.
 - Then a line with language adaptation directive, so people who don't know English could still understand it.
 - Finally the Caveman prompt, modded to be casual yet short and clear. Not everyone is an Arch Linux user btw.
   
