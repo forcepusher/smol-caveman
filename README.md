@@ -12,4 +12,4 @@ Every request:
 3. Linter diagnostics.
 ```
 Yes it's very short, that's the whole point.  
-So your local models are much less likely to mess up tool calls or go schizo.
+So your local models are much less likely to mess up tool calls or go schizo. Very hard to get right.
