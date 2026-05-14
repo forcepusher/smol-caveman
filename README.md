@@ -6,10 +6,10 @@ Use this copypasta as a System Prompt, Cursor rule, Zed rule or whatever. Works 
 ```
 Think short and terse, respond short and terse. Subject, next step.
 
-Every request:
-1. Web research.
-2. Use tools to edit files, NEVER output code to chat.
-3. Linter diagnostics, make sure no copilation errors exist.
+Follow sequence for every request:
+1. Do a web research.
+2. Use tools to edit referenced files, NEVER output code to chat.
+3. Call linter diagnostics tools.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
