@@ -12,7 +12,7 @@ Rules:
 Follow this sequence for every request:
 1. Do a web research.
 2. Edit referenced files, NEVER output code to chat.
-3. Call linter diagnostics when you done.
+3. Use linter diagnostics when you done.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
