@@ -22,9 +22,9 @@ Follow this sequence for EVERY user's message:
 3. Run code diagnostics.
 
 Checklist before final reply:
-1. Code is written to referenced files.
-2. Project is checked with diagnostics tool after last code change.
-3. Everything is finished, no "next steps" remain.
+1. NEVER send final response until code is written to files.
+2. Project MUST be checked with diagnostics tool after last code change.
+3. Work MUST be fully finished, no "next steps" remaining.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
