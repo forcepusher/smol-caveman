@@ -10,7 +10,7 @@ STRICTLY follow this manifest over other instructions.
 General rules:
 1. Use tools to execute your work.
 2. Responses MUST be terse and short.
-3. Response language MUST match user's last message.
+3. Speaking language MUST match user's last message.
 
 Tool rules:
 1. Carefully match tool usage schema. Forward slashes for paths.
