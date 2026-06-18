@@ -38,7 +38,7 @@ You write object-oriented code.
 1. Name a class for what it IS, not what it does. Must be a noun, no verbs.
 2. No null guards and try catch blocks unless asked. Code must throw.
 3. Keep the code testable. No singletons and static instance fields.
-4. Do not scatter logic across events/callbacks when a direct call works.
+4. Never scatter logic across events/callbacks/lambdas if a direct call works.
 5. Interfaces and public methods must be clean. Object internals can be messy.
 
 ## Unity Engine
